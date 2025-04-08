@@ -9,8 +9,10 @@
 - MongoDB
 - Mailtrap
 
-```.env file
+.env file
+
+```
 MONGO_URL=
 JWT_SECRET_KEY=
-DOMAIN=http://localhost:3000
+DOMAIN=http://localhost:3000 // you can change it according to you
 ```
